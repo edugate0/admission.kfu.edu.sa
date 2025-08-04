@@ -16,7 +16,7 @@ const studentData = {
     },
      "1092466232": {
         name: "فاطمة شبر باقر المسلم",
-        degree: "بكالوريس",
+        degree: "دبلوم",
         major: "موارد بشرية",
         status: "مقبول",
         admissionDate: "2025/08/04",
