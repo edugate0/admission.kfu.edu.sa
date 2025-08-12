@@ -16,7 +16,7 @@ const studentData = {
     },
      "1092466232": {
         name: "فاطمة شبر باقر المسلم",
-        degree: "دبلوم",
+        degree: "بكالوريس",
         major: "موارد بشرية",
         status: "مقبول",
         admissionDate: "2025/08/04",
@@ -25,9 +25,25 @@ const studentData = {
             tuition: 2000,
             registration: 0,
             books: 0,
-            total: 2000
+            total: 2000,
         }
-    }
+     },
+          "1137521918": {
+        name: "يقين احمد العلي",
+        degree: "بكالوريس",
+        major: "موارد بشرية",
+        status: "مقبول",
+        admissionDate: "2025/08/12",
+        phone: "0569161225",
+        fees: {
+            tuition:750 ,
+            registration: 0,
+            books: 0,
+            total: 750,
+        }
+          },
+         
+    
     
 };
 
@@ -209,15 +225,15 @@ function showPaymentInvoice() {
                 <div class="bank-details">
                     <div class="bank-item">
                         <span>اسم البنك:</span>
-                        <span>  البنك الراجحي</span>
+                        <span>الاهلي</span>
                     </div>
                     <div class="bank-item">
                         <span>رقم الحساب:</span>
-                        <span>694000010006086493109</span>
+                        <span>11100310718902</span>
                     </div>
                     <div class="bank-item">
                         <span>الآيبان:</span>
-                        <span>SA03 8000 0694 6080 1649 3109</span>
+                        <span>SA3410000011100310718902</span>
                     </div>
                     <div class="bank-item">
                         
